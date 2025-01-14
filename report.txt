@@ -1,7 +1,7 @@
 difficulties faced: rate limit, forgetting assign port on local machine container, having to severely cut down the content of the webpage because aws actually went to validate the html and rejected it because of some formatting error (idk displays fine on my machine amazon)
 
 
-got apprunner working finally
+got apprunner working finally, and the app actually built (yay)
 
 url is https://pxep9vh8yr.ap-southeast-1.awsapprunner.com/
 github is github.com/arandompiplup/accad5-assessment
