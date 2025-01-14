@@ -13,7 +13,7 @@ phases:
   post_build:
     commands:
       - echo Pushing Docker image to ECR...
-      - docker push 415619022182.dkr.ecr.ap-southeast-1.amazonaws.com/microservice:latest
+      - docker push 598306085737.dkr.ecr.ap-southeast-1.amazonaws.com/accad5-repo:latest
 
 artifacts:
   files:
